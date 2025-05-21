@@ -67,6 +67,24 @@ obfuscationTypes = new Dictionary<int, Obfuscation.Type>
 2. **Switch to AR Mode:** Tap the camera button to switch to the augmented reality view. This will enable the AR camera, allowing you to see virtual items in your physical environment.
 3. **Collect Items:** Move close to the virtual items in AR mode and tap on them to collect them. Ensure you are within the interaction range to successfully collect the items.
 
+## Citation 
+
+If you use any part of the code in this repository, please cite the following paper:
+
+```bibtex
+@InProceedings{10.1007/978-3-031-81713-7_13,
+author="Ribeiro, Tiago and Marto, Anabela and Gon{\c{c}}alves, Alexandrino and Santos, Leonel and Rabad{\~a}o, Carlos and de C. Costa, Rog{\'e}rio Lu{\'i}s",
+title="SafeARUnity: Real-Time Image Processing to Enhance Privacy Protection in LBARGs",
+booktitle="Videogame Sciences and Arts",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="186--200",
+isbn="978-3-031-81713-7",
+doi="10.1007/978-3-031-81713-7_13"
+}
+```
+
 ## Acknowledgements
 This work is funded by FCT - Fundação para a Ciência e a Tecnologia, I.P., through project with reference 2022.09235.PTDC.
 
