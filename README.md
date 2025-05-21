@@ -69,7 +69,7 @@ obfuscationTypes = new Dictionary<int, Obfuscation.Type>
 
 ## Citation 
 
-If you use any part of the code in this repository, please cite the following paper:
+If you use any piece of the code available in this repository, please cite the following paper:
 
 ```bibtex
 @InProceedings{10.1007/978-3-031-81713-7_13,
